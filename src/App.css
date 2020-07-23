@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  height: 100%;
+  margin-top: 0px;
 }
-
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #95DADA;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
